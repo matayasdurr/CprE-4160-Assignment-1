@@ -19,3 +19,11 @@ This project demonstrates key Object-Oriented Programming (OOP) principles in Ja
 javac *.java
 java Main
 
+Expected Output:
+Toyota Car - Speed: 120km/h, Doors: 4
+Toyota Car is driving.
+Harley-Davidson Motorcycle - Speed: 100km/h, Sidecar: false
+Harley-Davidson Motorcycle is driving.
+Updating details for Toyota
+Updating details for Harley-Davidson
+
